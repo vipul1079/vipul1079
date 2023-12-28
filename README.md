@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Vipul Sharma
-#### **Full Stack Developer**
+## Hi there 👋, I'm Vipul Sharma
+## **Full Stack Developer**
 ![**Full Stack Developer**](https://github.com/vipul1079/vipul1079/blob/master/Bannerforgithub.png)
 
 After graduating from **Guru Nanak Dev University** with a degree in **Electronics & Computers**, I decided to pursue my passion for programming. I enrolled in a coding bootcamp and learned full-stack web development. My favorite part of programming is the problem-solving aspect. I love the feeling of finally figuring out a solution to a problem. My core stack is React, Next.js, Node.js, and MongoDB.
