@@ -18,5 +18,5 @@ Skills: REACT / JS / HTML / CSS / TAILWINDCSS / MONGODB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipul1079)](https://github.com/anuraghazra/github-readme-stats)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/vipul1079/contributions?format=svg&private=true)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/vipul1079/contributions?format=svg&private=true)  
 
